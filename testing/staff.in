@@ -1,0 +1,5 @@
+# Run your AI against the staff program.
+#* staff-loa
+manual black
+auto white
+#*remote move/win

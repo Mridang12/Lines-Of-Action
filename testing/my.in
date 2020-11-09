@@ -1,0 +1,8 @@
+# Run your AI against the staff program.
+#* java -ea loa.Main
+manual white
+auto black
+#*move
+#*remote move/win
+dump
+x
